@@ -1,6 +1,6 @@
 # edinet-api skill
 
-EDINET API（金融庁 電子開示システム）V2 のインターフェース仕様を提供する Copilot スキル。
+EDINET API（金融庁 電子開示システム）V2 のインターフェース仕様を提供する Agent Skillです。
 
 ## 構成
 
