@@ -12,7 +12,7 @@ references/
 
 ## インストール
 
-`SKILL.md` と `references/` を `~/.copilot/skills/edinet-api/` に配置する。
+`skills`内の`edinet-api`ディレクトリを`.copilot/skills/edinet-api`のように配置してください。
 
 ## ソース
 
