@@ -16,4 +16,5 @@ references/
 
 ## ソース
 
-[EDINET API仕様書（Version 2）](https://disclosure2dl.edinet-fsa.go.jp/guide/static/disclosure/WZEK0030.html) — 金融庁（2026年1月版）
+[EDINET 総合トップ](https://disclosure2dl.edinet-fsa.go.jp/guide/static/disclosure/WZEK0110.html)
+[EDINET API仕様書（Version 2）](https://disclosure2dl.edinet-fsa.go.jp/guide/static/disclosure/download/ESE140206.pdf) — 金融庁（2026年1月版）
